@@ -49,4 +49,3 @@ ChachaGit is designed as a foundational project with potential for future enhanc
 - **Branching and Merging**: Implementing features to support branching and merging of file changes.
 - **Conflict Resolution**: Adding logic to handle file conflicts during concurrent modifications.
 - **User Interface Enh**
-[CLI](/home/chiranjeet/Pictures/Screenshots/Screenshot_20241103_190415.png)
